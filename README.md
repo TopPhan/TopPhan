@@ -41,6 +41,7 @@ I'm passionate about building **reliable, maintainable test automation framework
 - **Live Allure Report** — interactive report with 20-run trend history
 
 [![Live Allure Report](https://img.shields.io/badge/🔗_Live_Allure_Report-View_Here-ff69b4?style=for-the-badge)](https://TopPhan.github.io/Phan_Hoang_Dinh_AutomationTesting_Hasaki.vn/)
+
 [![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/TopPhan/Phan_Hoang_Dinh_AutomationTesting_Hasaki.vn)
 
 ---
