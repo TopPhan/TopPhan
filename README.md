@@ -22,7 +22,9 @@ I'm passionate about building **reliable, maintainable test automation framework
 
 ## 🚀 Featured Project — Hasaki.vn Automation Framework
 
-> **Production-grade E2E Automation Framework** for Vietnam's leading beauty e-commerce platform.
+> **An E2E Automation Framework** for Vietnam's leading beauty e-commerce platform.
+
+> See video I explain here: https://youtu.be/7Lvtc1josBs
 
 | Metric | Result |
 |---|---|
